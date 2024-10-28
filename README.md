@@ -24,6 +24,12 @@
 Проще всего создать в проекте файл .env и разместить данный ключ там
 
 # Поблагодарить за старания можно 
-## USDT (trc20) TZDzNwP3vPxxQaG7pte596hncUTKUZuESf
-## TON (trc20) UQCFMTv6oyLJz5k1iYPvFUIEH-7V00Jk6ICDh7KqlIzlfdiV
-## BTC 15ZBu87SCGhbWzbLj1qMbJ1qeU9FpbEMi6
+
+## USDT (trc20) 
+###TZDzNwP3vPxxQaG7pte596hncUTKUZuESf
+
+## TON (trc20) 
+### UQCFMTv6oyLJz5k1iYPvFUIEH-7V00Jk6ICDh7KqlIzlfdiV
+
+## BTC 
+### 15ZBu87SCGhbWzbLj1qMbJ1qeU9FpbEMi6
